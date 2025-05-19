@@ -74,6 +74,7 @@ Normalmente `C:\Users\SeuUsuário\AppData\Roaming\Claude`.
 - João: +5511999999999
 - Maria: +5511988888888
 - Ana: +5511977777777
+- Murilo: +5562993614365
 
 ## Exemplos de uso
 Utilizando o recurso send_message
